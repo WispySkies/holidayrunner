@@ -1,0 +1,101 @@
+100 100 18
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                                                                  X
+X                                                                                                  X
+X                                                                                                  X
+X                    C                                                                             X
+X                                                                                                  X
+X                                                                                                  X
+X                 XXXXXXXXXXXXXXXX                                       XXX                       X
+X                                                                                  C               X
+X                          4               XXXXXXXXX             1                                 X
+X                                                                          X                       X
+X                                                                                                  X
+X                                                                                                  X
+X                                                                                                  X
+X            S                             X XXXXXXXXX                                             X
+X                                                                                   XX             X
+X                                        C                                                         X
+X                                            X                                        X            X
+X                                                                                      X           X
+X              2                          X X                            C              X          X
+X                         XXX X XX                                                X                X
+X                    XXXXX       5                                                  X              X
+X                                                                                        XX        X
+X                                                                                                  X
+X                                                   C                                      XX      X
+X                                                                                             X    X
+X            C                                       XXX                   3                X      X
+X                                                       X                                          X
+X                                                       X                                          X
+X                                                       XX                                         X
+X                                                        X                                         X
+X                                                        X                                         X
+X                         C                      XXXXX  C                                          X
+X                                                    X                                             X
+X                                                                                                  X
+X               6                                     X                                            X
+X                                                      X                   C                       X
+X                                                       X                                          X
+X             XXXXXXXXX                                  X                                         X
+X          C                                           XX                                          X
+X                                                                                                  X
+X                                                                                                  X
+X                                                             7                                    X
+X                                     C                                                            X
+X                                                                                   8              X
+X                                                                                                  X
+X                                                                                                  X
+X                                                  C                                               X
+X                                                                         6                        X
+X                                                                                                  X
+X                                              XXXXXXXXXXXXXXX                                     X
+X                                                                                                  X
+X                              7                                                                   X
+X      XXXXXXXXXX                                                                                  X
+X         C                                                                                        X
+X                                                                                                  X
+X                                                                                  9               X
+X                                                                      8                           X
+X                                                                                                  X
+X                   XXXX                                                      C                    X
+X                    9                               XXXX                                          X
+X                   XXXX                                                                           X
+X                                                              XXXXXXXXXXXXXXX                     X
+X                                                                 X                                X
+X                                                                X                                 X
+X                                                               X                                  X
+X                                                              X                                   X
+X                                                4            X                                    X
+X                                                            X                                     X
+X                                                           X                         C            X
+X                                                          X                                       X
+X                                                         X                                        X
+X                          C                             X                                         X
+X                                                      X                                           X
+X                                              X X X XX                                            X
+X                                                                                                  X
+X                                                                                                  X
+X                       C                                                 2                        X
+X                                                                                                  X
+X                                                                                                  X
+X                                                                                                  X
+X                                  X                                                               X
+X                                    X                   C                                         X
+X        X X X X                  X                                                                X
+X                           X                                 X X X XX X X XXXXX                   X
+X                                          X                          X                            X
+X                X               3           X                      X                              X
+X                  X                           X                  X                      X         X
+X                    X                                          X                          X       X
+X                      X                                      X                             X      X
+X                        X                                  X                                X     X
+X                 C        X                              X                                   X    X
+X                         X                  X                                X XX       XXXXX X   X
+X        1                X                                                                        X
+X                          X                                                 C                     X
+X                           X                                     5                                X
+X                           X                                                                      X
+X                            X                                                     XX XX           X
+X                             X                                                                    X
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
